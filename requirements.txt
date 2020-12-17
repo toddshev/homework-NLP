@@ -1,0 +1,7 @@
+alpaca-trade-api==0.50.1
+newsapi-python==0.2.5
+numpy==1.17.0
+nltk @ file:///tmp/build/80754af9/nltk_1592496090529/work
+spacy @ file:///D:/bld/spacy_1606374926448/work
+wordcloud @ file:///D:/bld/wordcloud_1605555915804/work
+matplotlib @ file:///C:/ci/matplotlib-base_1592846084747/work

@@ -1,8 +1,7 @@
 # NLP Homework - Module 12
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/toddshev/homework-NLP/main?filepath=https%3A%2F%2Fgithub.com%2Ftoddshev%2Fhomework-NLP%2Fblob%2Fmain%2FHomework%2FStarter_Code%2Fcrypto_sentiment.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](http://notebooks.gesis.org/binder/jupyter/user/toddshev-homework-nlp-kah0u4r5/tree/Homework/Starter_Code/crypto_sentiment.ipynb)
 
-http://notebooks.gesis.org/binder/jupyter/user/toddshev-homework-nlp-kah0u4r5/tree/Homework/Starter_Code/crypto_sentiment.ipynb
 
 #### The first section involved downloading Bitcoin and Ethereum articles, determining sentiment, and creating dataframes
 * Ethereum had the highest sentiment analysis scores, though this may change based on the articles in the corpus
